@@ -1,0 +1,24 @@
+h1{
+    color: goldenrod;
+    text-align: center;
+    font-size: 90px;
+}
+#first{
+    color: white;
+    background-color: blue;
+}
+#price{color: blue;}
+#second{
+    color: white;
+    background-color: brown;
+}
+#price{
+    color: blue;
+}
+#third{
+    color:white ;
+    background-color: blue;
+}
+#price{
+    color: blue;
+}
